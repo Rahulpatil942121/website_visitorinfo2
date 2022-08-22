@@ -1,0 +1,1 @@
+[08-Aug-2022 18:01:14 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admincontroller::Delete_Product() in /home/apliju6h/productvisitor.duticorp.com/app/Http/Controllers/Admincontroller.php on line 228
